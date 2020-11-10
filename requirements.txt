@@ -1,0 +1,8 @@
+pandas==1.0.5
+streamlit==0.70.0
+altair==4.1.0
+numpy==1.19.1
+xlrd==1.2.0
+plotly==4.9.0
+requests==2.24.0
+beautifulsoup4==4.9.3
